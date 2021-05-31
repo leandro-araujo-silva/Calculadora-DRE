@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/dre.gif" alt="demo-web" height="400">
+  <img src="_imagens/dre1.gif" alt="demo-web" height="400">
 </div>
 
 ---
